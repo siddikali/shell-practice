@@ -2,4 +2,4 @@
 
 echo "enter your number::"
 read pin 
-echo "your number is : $ pin" 
+echo "your number is : $pin" 
