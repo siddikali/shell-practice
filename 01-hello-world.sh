@@ -1,3 +1,3 @@
 #!/bin/bash
 
-hi this is siddik 
+echo "hi this is siddik" 
