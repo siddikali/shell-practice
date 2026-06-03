@@ -3,4 +3,4 @@
  number2=50
 
 sum=$(($number1+$number2))
-echo "sum of one and two is : $sum"
+echo "sum of $number1 and $number2 is : $sum"
